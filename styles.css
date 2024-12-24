@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f8f9fa;
+    line-height: 1.6;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    text-align: center;
+    padding: 1.5em 0;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  /* Main Section */
+  .main {
+    padding: 20px 40px;
+  }
+  
+  .main h2 {
+    color: #4CAF50; /* Green color for headings */
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .main p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .main ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .main ul li {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 1em;
+  }
+  
